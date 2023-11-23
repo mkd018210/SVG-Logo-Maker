@@ -14,7 +14,8 @@ Success: I was able to get the questions to come up when running the code in the
 Contributors: I used code from our class activities and then changed the information to go with my application.
 
 Command Line Photo
-./images/logocommandline
+![image](https://github.com/mkd018210/SVG-Logo-Maker/assets/134028719/5ec3b0e7-607a-4a2f-b35c-cc173158f71b)
+
 
 User Story:
 AS a freelance web developer
